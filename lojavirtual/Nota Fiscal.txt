@@ -1,0 +1,40 @@
+-----------------------------------------------------------------------------
+Nota fiscal de compra - TechShop Daora
+-----------------------------------------------------------------------------
+Data: 25/04/2018 09:40:01
+
+Cliente: al
+CPF: 11111111111
+
+Operador de caixa: Paula Tejano
+
+5 - Monitor
+	Preço unitário: 	500.0
+	Qtde comprada: 		8
+	Subtotal: 			4000.0
+
+
+1 - Caixa de som
+	Preço unitário: 	199.9
+	Qtde comprada: 		8
+	Subtotal: 			1599.2
+
+
+3 - Pente de memória RAM
+	Preço unitário: 	199.99
+	Qtde comprada: 		8
+	Subtotal: 			1599.92
+
+
+7 - Mouse
+	Preço unitário: 	79.9
+	Qtde comprada: 		1
+	Subtotal: 			79.9
+
+-----------------------------------------------------------------------------
+Total da compra: 		7279.0199999999995
+Forma de pgto: 			Crédito
+Total pago: 			7279.0199999999995
+-----------------------------------------------------------------------------
+Obrigado pela preferência, volte sempre! ;D
+-----------------------------------------------------------------------------
