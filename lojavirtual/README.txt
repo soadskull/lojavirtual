@@ -1,7 +1,6 @@
 ------------------ Componentes da Equipe ------------------
-Programação Orientada ao Objeto - Professor Othon Batista
+ProgramaÃ§Ã£o Orientada ao Objeto - Professor Othon Batista
 
-Ciência da computação - Unifacs - PA6
+CiÃªncia da computaÃ§Ã£o - Unifacs - PA6
 
-- Alexon José Umbelino da Conceição | 029171077
-(Sim, apenas eu)
+- Alexon JosÃ© Umbelino da ConceiÃ§Ã£o | 029171077
